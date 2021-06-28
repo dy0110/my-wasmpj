@@ -1,0 +1,15 @@
+{
+  "name": "my-wasmpj",
+  "collaborators": [
+    "Daichi Yoshida <daichi.yoshida@hacobu.jp>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "my_wasmpj_bg.wasm",
+    "my_wasmpj.js",
+    "my_wasmpj.d.ts"
+  ],
+  "module": "my_wasmpj.js",
+  "types": "my_wasmpj.d.ts",
+  "sideEffects": false
+}
