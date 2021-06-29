@@ -7,7 +7,9 @@
   "files": [
     "my_wasmpj_bg.wasm",
     "my_wasmpj.js",
-    "my_wasmpj.d.ts"
+    "my_wasmpj.d.ts",
+    "my_wasmpj_bg.js",
+    "my_wasmpj_bg.d.ts"
   ],
   "module": "my_wasmpj.js",
   "types": "my_wasmpj.d.ts",
